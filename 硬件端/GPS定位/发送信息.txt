@@ -1,0 +1,29 @@
+1|0|AT+GPS=1          ——OK
+2|0|AT+GPSMD=1   ——GPSMD
+5|0|AT+CCID            ——CCID
+3|0|AT+CREG?         //是否注册网络   ——1,1/1,5
+6|0|AT+CSQ                                   ——CSQ
+4|0|AT+CGATT=1  //附着网络        ——CGATT
+
+11|0|AT+CGDCONT=1,"IP","CMWAP"     //设置PDP参数   ——OK 
+7|0|AT+CGACT=1,1     //激活PDP                                   ——OK
+AT+CIPSTATUS?                                    //查询链路状态   ——GPRSACT
+
+8|0|AT+CIPSTART="TCP","119.23.14.83/gps",80  //建立TCP连接    ——CONNECT OK
+9|0|AT+CIPSEND      HttpGet(GPSData);                    //发送内容                ——> +TCPCLOSED:0 
+  
+AT+HTTPGET="http://119.23.14.83?LongitudeE=117.01800&LatitudeN=37.96629" ——OK
+
+//机智云
+AT+EGMR=2,7           //读取IMEI IMEI一定要正确
+AT+GIZTRACKER=1,1,10,0,faec4bc70c6b4668b0e0ecaffdf6bfb9,3fae8257cbee40b3872f82d1d4a4bace  ——conn end
+AT+GIZSTART=faec4bc70c6b4668b0e0ecaffdf6bfb9,3fae8257cbee40b3872f82d1d4a4bace   ——conn end
+AT+GIZSEND=4      //可以发送16进制 设备主动上报状态
+>
+信息1A         //接收到>后 发送要发送的信息，以0x1a结尾
+
+AT+GIZSEND=4,5      //可以发送16进制 设备主动上报状态  数据个数为5个
+>
+12345\r\n         //接收到>后 发送要发送的信息，以回车换行结尾
+发送的HTTPGET请求 一旦没有接收到服务器返回的信息 只能等待5分钟，让模块自己退出
+

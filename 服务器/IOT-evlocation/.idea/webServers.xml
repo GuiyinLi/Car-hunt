@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bcaf898c-8e00-4b81-bc00-9732da095367" name="route host" url="http://47.93.212.73">
+        <fileTransfer host="47.93.212.73" port="22" accessType="SFTP" password="dff9dff9dfe2df87dfdfdfc8dfdfdfc4dfdedfdfdf9bdf9ddf9adf9ddf9adf9ddf9bdf9adf93" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+A9G Init OK
+
+CREG Failed
+CGDCONT Failed
+SIM Init OK
+
+GPS Init...
+
+GPS Init OK
+
+Messege:
+LongitudeE=0.00000&LatitudeN=0.00000
+GPS NO Signal
+TCP OK
+Send OK
+gps=0
+CLOSE OK

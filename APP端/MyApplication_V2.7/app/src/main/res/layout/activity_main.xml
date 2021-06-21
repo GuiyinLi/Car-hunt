@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="bottom|center_horizontal"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Mainactivity"
+    android:weightSum="1">
+
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/bmapView"
+        android:layout_width="match_parent"
+        android:layout_height="353dp"
+        android:clickable="true"
+        android:layout_weight="2.15" />
+
+
+
+    <Button
+        android:layout_width="179dp"
+        android:layout_height="wrap_content"
+        android:text="一键寻车"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal" />
+
+
+
+
+    <Button
+        android:id="@+id/tton3"
+        android:layout_width="180sp"
+        android:layout_height="50sp"
+        android:text="获取现在的位置"
+        android:textSize="16sp"/>
+
+</LinearLayout>

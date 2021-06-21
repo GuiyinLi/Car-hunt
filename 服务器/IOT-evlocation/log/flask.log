@@ -1,0 +1,120 @@
+2020-06-20 12:26:22 WARNING: * Debugger is active!
+2020-06-20 12:26:22 INFO   : * Debugger PIN: 197-538-400
+2020-06-20 12:26:25 INFO   : * Running on http://0.0.0.0:443/ (Press CTRL+C to quit)
+2020-06-20 12:26:25 INFO   : * Restarting with stat
+2020-06-20 12:26:25 WARNING: * Debugger is active!
+2020-06-20 12:26:25 INFO   : * Debugger PIN: 197-538-400
+2020-06-20 12:26:28 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:26:28 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:26:28 INFO   :203.195.211.185 - - [20/Jun/2020 12:26:28] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:26:29 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:26:29 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:26:29 INFO   :203.195.211.185 - - [20/Jun/2020 12:26:29] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:28:30 INFO   : * Running on http://0.0.0.0:443/ (Press CTRL+C to quit)
+2020-06-20 12:28:30 INFO   : * Restarting with stat
+2020-06-20 12:28:30 WARNING: * Debugger is active!
+2020-06-20 12:28:30 INFO   : * Debugger PIN: 197-538-400
+2020-06-20 12:28:49 INFO   : * Running on http://0.0.0.0:443/ (Press CTRL+C to quit)
+2020-06-20 12:28:49 INFO   : * Restarting with stat
+2020-06-20 12:28:50 WARNING: * Debugger is active!
+2020-06-20 12:28:50 INFO   : * Debugger PIN: 197-538-400
+2020-06-20 12:28:53 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:28:53 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:28:53 INFO   :203.195.211.185 - - [20/Jun/2020 12:28:53] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:29:17 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:29:17 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:29:17 INFO   :203.195.211.185 - - [20/Jun/2020 12:29:17] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:29:18 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:29:18 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:29:18 INFO   :203.195.211.185 - - [20/Jun/2020 12:29:18] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:29:59 INFO   : * Running on http://0.0.0.0:443/ (Press CTRL+C to quit)
+2020-06-20 12:29:59 INFO   : * Restarting with stat
+2020-06-20 12:29:59 WARNING: * Debugger is active!
+2020-06-20 12:30:00 INFO   : * Debugger PIN: 197-538-400
+2020-06-20 12:30:02 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:30:02 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:30:02 INFO   :203.195.211.185 - - [20/Jun/2020 12:30:02] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:30:03 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:30:03 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:30:03 INFO   :203.195.211.185 - - [20/Jun/2020 12:30:03] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:30:04 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:30:04 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:30:04 INFO   :203.195.211.185 - - [20/Jun/2020 12:30:04] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:30:05 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:30:05 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:30:05 INFO   :203.195.211.185 - - [20/Jun/2020 12:30:05] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:30:06 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:30:06 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:30:06 INFO   :203.195.211.185 - - [20/Jun/2020 12:30:06] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:30:07 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:30:07 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:30:07 INFO   :203.195.211.185 - - [20/Jun/2020 12:30:07] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:31:07 INFO   : * Running on http://0.0.0.0:443/ (Press CTRL+C to quit)
+2020-06-20 12:31:07 INFO   : * Restarting with stat
+2020-06-20 12:31:08 WARNING: * Debugger is active!
+2020-06-20 12:31:08 INFO   : * Debugger PIN: 197-538-400
+2020-06-20 12:31:11 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:31:11 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:31:11 INFO   :203.195.211.185 - - [20/Jun/2020 12:31:11] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:31:11 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:31:11 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:31:11 INFO   :203.195.211.185 - - [20/Jun/2020 12:31:11] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:31:32 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:31:32 INFO   :root~evdatabase@SQL->[select * from pos order by time DESC limit 1] execute successful
+2020-06-20 12:31:32 INFO   :root~evdatabase@(datetime.datetime(2020, 6, 20, 2, 23, 2), 119.83, 40.3)
+2020-06-20 12:31:32 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:31:32 INFO   :203.195.211.185 - - [20/Jun/2020 12:31:32] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:31:33 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:31:33 INFO   :root~evdatabase@SQL->[select * from pos order by time DESC limit 1] execute successful
+2020-06-20 12:31:33 INFO   :root~evdatabase@(datetime.datetime(2020, 6, 20, 2, 23, 2), 119.83, 40.3)
+2020-06-20 12:31:33 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:31:33 INFO   :203.195.211.185 - - [20/Jun/2020 12:31:33] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:31:34 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:31:34 INFO   :root~evdatabase@SQL->[select * from pos order by time DESC limit 1] execute successful
+2020-06-20 12:31:34 INFO   :root~evdatabase@(datetime.datetime(2020, 6, 20, 2, 23, 2), 119.83, 40.3)
+2020-06-20 12:31:34 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:31:34 INFO   :203.195.211.185 - - [20/Jun/2020 12:31:34] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:31:59 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:31:59 INFO   :root~evdatabase@SQL->[select * from pos order by time DESC limit 1] execute successful
+2020-06-20 12:31:59 INFO   :root~evdatabase@(datetime.datetime(2020, 6, 20, 2, 23, 2), 119.83, 40.3)
+2020-06-20 12:31:59 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:31:59 INFO   :203.195.211.185 - - [20/Jun/2020 12:31:59] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:32:00 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:32:00 INFO   :root~evdatabase@SQL->[select * from pos order by time DESC limit 1] execute successful
+2020-06-20 12:32:00 INFO   :root~evdatabase@(datetime.datetime(2020, 6, 20, 2, 23, 2), 119.83, 40.3)
+2020-06-20 12:32:00 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:32:00 INFO   :203.195.211.185 - - [20/Jun/2020 12:32:00] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:32:04 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:32:04 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:32:04 INFO   :203.195.211.185 - - [20/Jun/2020 12:32:04] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:32:05 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:32:05 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:32:05 INFO   :203.195.211.185 - - [20/Jun/2020 12:32:05] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:34:15 INFO   : * Running on http://0.0.0.0:443/ (Press CTRL+C to quit)
+2020-06-20 12:34:15 INFO   : * Restarting with stat
+2020-06-20 12:34:15 WARNING: * Debugger is active!
+2020-06-20 12:34:15 INFO   : * Debugger PIN: 197-538-400
+2020-06-20 12:34:19 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:34:19 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:34:19 INFO   :203.195.211.185 - - [20/Jun/2020 12:34:19] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:34:20 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:34:20 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:34:20 INFO   :203.195.211.185 - - [20/Jun/2020 12:34:20] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:34:50 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:34:50 INFO   :root~evdatabase@SQL->[select * from pos order by time DESC limit 1] execute successful
+2020-06-20 12:34:50 INFO   :root~evdatabase@(datetime.datetime(2020, 6, 20, 2, 23, 2), 119.83, 40.3)
+2020-06-20 12:34:50 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:34:50 INFO   :203.195.211.185 - - [20/Jun/2020 12:34:50] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:34:51 INFO   :root~evdatabase@Database connection successful
+2020-06-20 12:34:51 INFO   :root~evdatabase@SQL->[select * from pos order by time DESC limit 1] execute successful
+2020-06-20 12:34:51 INFO   :root~evdatabase@(datetime.datetime(2020, 6, 20, 2, 23, 2), 119.83, 40.3)
+2020-06-20 12:34:51 INFO   :root~evdatabase@Database connection closed successful
+2020-06-20 12:34:51 INFO   :203.195.211.185 - - [20/Jun/2020 12:34:51] "[37mGET / HTTP/1.1[0m" 200 -
+2020-06-20 12:43:01 INFO   : * Detected change in '/home/evlocation/app.py', reloading
+2020-06-20 12:43:01 INFO   : * Restarting with stat
+2020-06-20 12:43:01 WARNING: * Debugger is active!
+2020-06-20 12:43:01 INFO   : * Debugger PIN: 197-538-400
+2020-06-20 12:43:09 INFO   : * Detected change in '/home/evlocation/app.py', reloading
+2020-06-20 12:43:09 INFO   : * Restarting with stat
+2020-06-20 12:43:10 WARNING: * Debugger is active!
+2020-06-20 12:43:10 INFO   : * Debugger PIN: 197-538-400

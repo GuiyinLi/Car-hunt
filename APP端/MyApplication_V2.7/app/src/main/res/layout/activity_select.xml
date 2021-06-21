@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/start1"
+    tools:context="com.example.myapplication4.SelectActivity">
+
+    <Button
+        android:layout_width="150sp"
+        android:layout_height="60sp"
+        android:id="@+id/button2"
+        android:text="开始寻车"
+        android:onClick="OnPlay"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/button3"
+        android:layout_alignStart="@+id/button3"
+        android:layout_marginTop="108dp" />
+
+    <Button
+        android:layout_width="150sp"
+        android:layout_height="60sp"
+        android:text="用户须知"
+        android:id="@+id/button3"
+        android:layout_marginTop="28dp"
+        android:onClick="OnAbout"
+        android:layout_below="@+id/button2"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
